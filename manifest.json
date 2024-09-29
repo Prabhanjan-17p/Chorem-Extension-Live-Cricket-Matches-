@@ -1,0 +1,12 @@
+
+{
+    "name": "Pravanjan Match Scored Board",
+    "description":"Every match Scored Live ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "Pravanjan Amanta",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon":"fav.png"
+    }
+} 
